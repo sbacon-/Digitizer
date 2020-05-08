@@ -1,0 +1,6 @@
+I:\C#\Digitizer\bin\Release\Digitizer.exe.config
+I:\C#\Digitizer\bin\Release\Digitizer.exe
+I:\C#\Digitizer\bin\Release\Digitizer.pdb
+I:\C#\Digitizer\obj\Release\Digitizer.csproj.CoreCompileInputs.cache
+I:\C#\Digitizer\obj\Release\Digitizer.exe
+I:\C#\Digitizer\obj\Release\Digitizer.pdb

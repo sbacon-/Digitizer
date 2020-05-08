@@ -1,0 +1,7 @@
+I:\C#\Digitizer\bin\Debug\Digitizer.exe.config
+I:\C#\Digitizer\bin\Debug\Digitizer.exe
+I:\C#\Digitizer\bin\Debug\Digitizer.pdb
+I:\C#\Digitizer\obj\Debug\Digitizer.csprojAssemblyReference.cache
+I:\C#\Digitizer\obj\Debug\Digitizer.csproj.CoreCompileInputs.cache
+I:\C#\Digitizer\obj\Debug\Digitizer.exe
+I:\C#\Digitizer\obj\Debug\Digitizer.pdb

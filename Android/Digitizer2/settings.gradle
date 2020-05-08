@@ -1,0 +1,2 @@
+rootProject.name='Digitizer'
+include ':app'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digitizer</string>
+    <string name="width">Monitor Width:</string>
+    <string name="height">Monitor Height:</string>
+    <string name="defaultWidth">1920</string>
+    <string name="defaultHeight">1080</string>
+    <string name="monitor1">Monitor 1</string>
+    <string name="monitor2">Monitor 2</string>
+
+</resources>
